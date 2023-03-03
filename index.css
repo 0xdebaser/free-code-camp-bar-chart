@@ -1,0 +1,7 @@
+body {
+  text-align: center;
+}
+
+.bar:hover {
+  fill: green;
+}
