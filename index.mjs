@@ -6,7 +6,7 @@ const dataset = gdpData.data;
 const h = 600;
 const xPadding = 40;
 const yPadding = 20;
-const w = dataset.length * 5 + 2 * xPadding;
+const w = dataset.length * 3 + 2 * xPadding;
 
 const xScale = d3
   .scaleTime()
